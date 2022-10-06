@@ -16,3 +16,7 @@
 	path = video-object-detection/openh264-dec
 	url = https://github.com/veracruz-project/openh264-dec
 	branch = veracruz
+[submodule "video-object-detection/mbedtls"]
+	path = video-object-detection/mbedtls
+	url = https://github.com/gbryant-arm/mbedtls
+	branch = wasm
