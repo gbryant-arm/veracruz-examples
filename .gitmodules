@@ -18,5 +18,5 @@
 	branch = veracruz
 [submodule "video-object-detection/mbedtls"]
 	path = video-object-detection/mbedtls
-	url = https://github.com/gbryant-arm/mbedtls
+	url = https://github.com/veracruz-project/mbedtls
 	branch = wasm
